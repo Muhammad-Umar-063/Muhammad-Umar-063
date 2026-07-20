@@ -1,7 +1,7 @@
 <!-- ======================= HEADER BANNER ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002147,100:0a3d7a&height=200&section=header&text=Muhammad%20Umar&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=twinkling&desc=Junior%20AI%20Web%20Apps%20Developer&descSize=18&descAlignY=60" width="100%" alt="Muhammad Umar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002147,100:0a3d7a&height=200&section=header&text=Muhammad%20Umar&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=twinkling&r%20AI%20Web%20Apps%20Developer&descSize=18&descAlignY=60" width="100%" alt="Muhammad Umar" />
 
 <!-- ======================= TYPING SVG ======================= -->
 <a href="https://github.com/Muhammad-Umar-063">
