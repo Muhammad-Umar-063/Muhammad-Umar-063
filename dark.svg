@@ -55,24 +55,31 @@
             font-family="'JetBrains Mono',Consolas,monospace" font-weight="800"
             font-size="72" fill="#1A1A1A">JS</text>
     </g>
-    <g opacity="0">
-      <animate
-attributeName="opacity"
-begin="0s"
-dur="12s"
-repeatCount="indefinite"
-calcMode="linear"
-keyTimes="0;0.5;0.55;0.75;0.8;1"
-values="0;0;1;1;0;0"/>
+  <g opacity="0">
 
-<image
-x="130"
-y="170"
-width="200"
-height="200"
-href="python-logo.svg"
-/>
-    </g>
+    <animate
+        attributeName="opacity"
+        begin="0s"
+        dur="12s"
+        repeatCount="indefinite"
+        calcMode="linear"
+        keyTimes="0;0.5;0.55;0.75;0.8;1"
+        values="0;0;1;1;0;0"/>
+
+    <text
+        x="230"
+        y="290"
+        text-anchor="middle"
+        font-family="'JetBrains Mono', Consolas, monospace"
+        font-size="95"
+        font-weight="800"
+        fill="#06B6D4">
+
+        PY
+
+    </text>
+
+</g>
     <g opacity="0">
       <animate attributeName="opacity" begin="0s" dur="12s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.75;0.8;0.95;1" values="0;0;1;1;0"/>
       <text x="230.0" y="308.0" text-anchor="middle"
