@@ -6,5 +6,5 @@
  srcset="https://raw.githubusercontent.com/Muhammad-Umar-063/Muhammad-Umar-063/main/light.svg">
 
  <img alt="Muhammad Umar"
- src="https://raw.githubusercontent.com/Muhammad-Umar-063/Muhammad-Umar-063/main/light.svg">
+ src="https://raw.githubusercontent.com/Muhammad-Umar-063/Muhammad-Umar-063/main/dark.svg">
 </picture>
