@@ -5,6 +5,6 @@
  <source media="(prefers-color-scheme: light)"
  srcset="https://raw.githubusercontent.com/Muhammad-Umar-063/Muhammad-Umar-063/main/light.svg">
 
- <img alt="YOUR NAME"
+ <img alt="Muhammad Umar"
  src="https://raw.githubusercontent.com/Muhammad-Umar-063/Muhammad-Umar-063/main/light.svg">
 </picture>
