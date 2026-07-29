@@ -35,3 +35,17 @@ srcset="https://raw.githubusercontent.com/Muhammad-Umar-063/Muhammad-Umar-063/ou
 src="https://raw.githubusercontent.com/Muhammad-Umar-063/Muhammad-Umar-063/output/github-snake.svg" />
 </picture>
 </div>
+
+
+
+<div align="center">
+<a href="https://www.linkedin.com/in//](https://www.linkedin.com/in/muhammad-umar-mehboob/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge
+&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:umarmehboob419@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge
+&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+</div>
