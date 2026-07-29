@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/Muhammad-Umar-063/Muhammad-Umar-063/outpu
 
 
 <div align="center">
-<a href="https://www.linkedin.com/in//](https://www.linkedin.com/in/muhammad-umar-mehboob/">
+<a href="https://www.linkedin.com/in/muhammad-umar-mehboob/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge
 &logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
