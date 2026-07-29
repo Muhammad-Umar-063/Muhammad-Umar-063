@@ -21,7 +21,6 @@ src="https://stat-card-puce.vercel.app/api?username=Muhammad-Umar-063&show_icons
 alt="GitHub Stats" />
 
 <img width="49%"
-src="https://stat-card-puce.vercel.app/api/top-langs/?username=Muhammad-Umar-063&layout=compact&bg_color=09090B&title_color=06B6D4&text_color=F8FAFC&border_color=06B6D4&hide_border=false"
+src="https://stat-card-puce.vercel.app/api/top-langs/?username=Muhammad-Umar-063&layout=compact&langs_count=8&bg_color=09090B&title_color=06B6D4&text_color=F8FAFC&border_color=06B6D4"
 alt="Top Languages" />
-
 </div>
