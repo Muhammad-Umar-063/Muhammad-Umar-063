@@ -24,3 +24,14 @@ alt="GitHub Stats" />
 src="https://stat-card-puce.vercel.app/api/top-langs/?username=Muhammad-Umar-063&layout=compact&langs_count=8&bg_color=09090B&title_color=06B6D4&text_color=F8FAFC&border_color=06B6D4"
 alt="Top Languages" />
 </div>
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Muhammad-Umar-063/Muhammad-Umar-063/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Muhammad-Umar-063/Muhammad-Umar-063/output/github-snake.svg" />
+<img alt="Snake eating my contributions"
+src="https://raw.githubusercontent.com/Muhammad-Umar-063/Muhammad-Umar-063/output/github-snake.svg" />
+</picture>
+</div>
